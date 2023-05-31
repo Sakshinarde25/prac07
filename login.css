@@ -1,0 +1,17 @@
+body{
+     text-align: center;
+     
+}
+div{
+    background-image: linear-gradient(pink,purple);
+     border-color: black;
+     width: 30%;
+     margin-top: auto;
+     margin: auto;
+     margin-right: auto;
+     
+     
+}
+button{
+    background-color:rbg(224, 241, 237);
+}
